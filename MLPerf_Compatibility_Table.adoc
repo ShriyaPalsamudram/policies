@@ -29,7 +29,7 @@ X: Change in benchmark. Submission results can be compared across rounds when th
 |Llama3.1 405b 11+|N/A 3+|X |N/A
 |Llama3.1 8b 12+|N/A 3+|X
 |FLUX.1 12+|N/A 3+|X
-|DeepSeekv3 13+|N/A 2+|X
+|DeepSeekv3 13+|N/A |X |X
 |GPT-OSS-20B 13+|N/A 2+|X
 |Qwen3.5-397B-GRPO 14+|N/A |X
 |DLRMv4-HSTU 14+|N/A |X
